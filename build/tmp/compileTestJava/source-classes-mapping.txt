@@ -1,0 +1,2 @@
+com/kakaobank/easytransfer/web/HomeControllerTest.java
+ com.kakaobank.easytransfer.web.HomeControllerTest
